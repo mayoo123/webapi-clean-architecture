@@ -33,7 +33,7 @@ Inner layers shouldn’t depend on outer layers, but outer layers can depend on 
 [Infrastructure is where the rubber meets the road — DB, APIs, etc.]
 
 **Web API Layer**
-- Finally, create the API that exposes your Application services.
+- Finally, create the web API that exposes your Application services.
 - Create Controllers
 - Handle model binding and validation
 - Wire up DI and app settings
